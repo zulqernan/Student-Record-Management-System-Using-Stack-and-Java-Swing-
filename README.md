@@ -1,0 +1,2 @@
+# Student-Record-Management-System-Using-Stack-and-Java-Swing-
+A Java-based Student Record Management System built using Stack data structure and Java Swing GUI. This project demonstrates core stack operations (Push, Pop, Peek, Display, Clear) for efficient student data management. Developed as a DSA (Data Structures &amp; Algorithms) Open-Ended Lab project at Mehran University, SZAB Campus Khairpur Mir's.
